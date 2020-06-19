@@ -17,6 +17,6 @@ class LoginModel : Mappable {
     }
     
     func mapping(map: Map) {
-        token <- map["QpwL5tke4Pnpja7X4"]
+        token <- map["token"]
     }
 }

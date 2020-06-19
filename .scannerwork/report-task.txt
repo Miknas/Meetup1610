@@ -1,0 +1,6 @@
+projectKey=Meetup1610
+serverUrl=http://localhost:3000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:3000/dashboard?id=Meetup1610
+ceTaskId=AXLM_UQXsQkFD0G_Bari
+ceTaskUrl=http://localhost:3000/api/ce/task?id=AXLM_UQXsQkFD0G_Bari
